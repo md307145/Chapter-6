@@ -10,22 +10,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="RockPaperScissor.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../Chapter5.0/src/RockPaperScissor.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="624">
+                    <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../Chapter5.0/src/Calculator.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state>
+                    <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="CountDown.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CountDown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountByThress.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountByThress.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CountByThress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+            <state relative-caret-position="63">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -33,8 +61,17 @@
       <file leaf-file-name="EvenEntryLoop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EvenEntryLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="252">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TEstScoreStatistics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TEstScoreStatistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -48,6 +85,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>displaybar</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Chapter6" />
   </component>
@@ -57,7 +99,9 @@
         <option value="$PROJECT_DIR$/src/Count.java" />
         <option value="$PROJECT_DIR$/src/CountDown.java" />
         <option value="$PROJECT_DIR$/src/CountByThress.java" />
+        <option value="$PROJECT_DIR$/../Chapter5.0/src/EvenOdd.java" />
         <option value="$PROJECT_DIR$/src/EvenEntryLoop.java" />
+        <option value="$PROJECT_DIR$/src/TEstScoreStatistics.java" />
       </list>
     </option>
   </component>
@@ -106,14 +150,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountByThress">
+  <component name="RunManager" selected="Application.TEstScoreStatistics">
     <configuration name="CountByThress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountByThress" />
       <module name="Chapter 6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CountDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountDown" />
+    <configuration name="EvenEntryLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenEntryLoop" />
+      <module name="Chapter 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOdd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RockPaperScissor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RockPaperScissor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TEstScoreStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEstScoreStatistics" />
       <module name="Chapter 6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -159,13 +216,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CountDown" />
       <item itemvalue="Application.CountByThress" />
+      <item itemvalue="Application.EvenEntryLoop" />
+      <item itemvalue="Application.EvenOdd" />
+      <item itemvalue="Application.RockPaperScissor" />
+      <item itemvalue="Application.TEstScoreStatistics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TEstScoreStatistics" />
+        <item itemvalue="Application.RockPaperScissor" />
+        <item itemvalue="Application.EvenEntryLoop" />
+        <item itemvalue="Application.EvenOdd" />
         <item itemvalue="Application.CountByThress" />
-        <item itemvalue="Application.CountDown" />
       </list>
     </recent_temporary>
   </component>
@@ -194,12 +257,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298292" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -226,24 +289,52 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Count.java" />
-    <entry file="file://$PROJECT_DIR$/src/CountDown.java">
+    <entry file="file://$PROJECT_DIR$/../Chapter5.0/src/EvenOdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EvenEntryLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CountByThress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        <state relative-caret-position="63">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter5.0/src/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvenEntryLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Chapter5.0/src/RockPaperScissor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TEstScoreStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
