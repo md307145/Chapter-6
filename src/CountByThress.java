@@ -29,12 +29,11 @@ public class CountByThress {
         for (int i = 1; i <= high; i = choise + i){
             count = count +1;
             if(count % 11 == 0){
-                System.out.println();
-            }
-            else
-                System.out.print(i + " ");
-            }
-
-        }
+        System.out.println();
     }
+            else
+                    System.out.print(i + " ");
+        }
+        }
+}
 }
